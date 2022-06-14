@@ -1,0 +1,15 @@
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe.config
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.AssemblyReference.cache
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciKayit.Form1.resources
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciKayit.FormDuyuruListesi.resources
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciKayit.FormDuyuruOlustur.resources
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciKayit.FormMesajlar.resources
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciKayit.FormOgrenci.resources
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciKayit.FormOgretmen.resources
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciKayit.Properties.Resources.resources
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.cache
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.CoreCompileInputs.cache
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\omiyi\Desktop\C#\Examples\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
